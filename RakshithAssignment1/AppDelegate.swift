@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  RakshithAssignment1
-//
-//  Created by Kushwanth Nalluri on 2020-06-14.
-//  Copyright © 2020 Rakshith. All rights reserved.
-//
+
 
 import UIKit
 

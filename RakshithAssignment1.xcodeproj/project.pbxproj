@@ -15,6 +15,7 @@
 		46F14BF4249697B300059B26 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 46F14BF2249697B300059B26 /* LaunchScreen.storyboard */; };
 		46F14BFF249697B300059B26 /* RakshithAssignment1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46F14BFE249697B300059B26 /* RakshithAssignment1Tests.swift */; };
 		46F14C0A249697B300059B26 /* RakshithAssignment1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46F14C09249697B300059B26 /* RakshithAssignment1UITests.swift */; };
+		46F14C1C2496B65400059B26 /* Place.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46F14C1B2496B65400059B26 /* Place.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		46F14C05249697B300059B26 /* RakshithAssignment1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RakshithAssignment1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		46F14C09249697B300059B26 /* RakshithAssignment1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RakshithAssignment1UITests.swift; sourceTree = "<group>"; };
 		46F14C0B249697B300059B26 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		46F14C1B2496B65400059B26 /* Place.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Place.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		46F14BE6249697B200059B26 /* RakshithAssignment1 */ = {
 			isa = PBXGroup;
 			children = (
+				46F14C1B2496B65400059B26 /* Place.swift */,
 				46F14BE7249697B200059B26 /* AppDelegate.swift */,
 				46F14BE9249697B200059B26 /* SceneDelegate.swift */,
 				46F14BEB249697B200059B26 /* ViewController.swift */,
@@ -262,6 +265,7 @@
 				46F14BEC249697B200059B26 /* ViewController.swift in Sources */,
 				46F14BE8249697B200059B26 /* AppDelegate.swift in Sources */,
 				46F14BEA249697B200059B26 /* SceneDelegate.swift in Sources */,
+				46F14C1C2496B65400059B26 /* Place.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

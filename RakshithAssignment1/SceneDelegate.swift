@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  RakshithAssignment1
 //
-//  Created by Kushwanth Nalluri on 2020-06-14.
+//  Created by Rakshith on 2020-06-14.
 //  Copyright © 2020 Rakshith. All rights reserved.
 //
 
